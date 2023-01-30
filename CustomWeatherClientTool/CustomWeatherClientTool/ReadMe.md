@@ -3,7 +3,7 @@ How to Install and Run this Application
 
 1) Download the Project and open the folder that contains Program.cs file in CMD.
 
-2) Copy the path of City.json file and replace in the line 65 in Program.cs file.
+2) Copy the path of City.json file and replace in the line 85 in Program.cs file.
 
 3) After Opening the CMD type the command  -- dotnet build
 
